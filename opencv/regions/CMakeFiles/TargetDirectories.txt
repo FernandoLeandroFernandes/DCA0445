@@ -1,0 +1,3 @@
+/media/fernando/FILES/Dropbox/UFRN/2016.2/DCA0445 - PROCESSAMENTO DIGITAL DE IMAGENS/opencv/regions/CMakeFiles/edit_cache.dir
+/media/fernando/FILES/Dropbox/UFRN/2016.2/DCA0445 - PROCESSAMENTO DIGITAL DE IMAGENS/opencv/regions/CMakeFiles/rebuild_cache.dir
+/media/fernando/FILES/Dropbox/UFRN/2016.2/DCA0445 - PROCESSAMENTO DIGITAL DE IMAGENS/opencv/regions/CMakeFiles/regions.dir
